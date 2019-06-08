@@ -13,7 +13,8 @@
                 "ts-node/register"
             ],
             "args": [
-                "${workspaceFolder}/src/2.js"
+                // "${workspaceFolder}/src/session2/main.ts"
+                "${workspaceFolder}/src/session1/main.js"
             ]
         }
     ]
